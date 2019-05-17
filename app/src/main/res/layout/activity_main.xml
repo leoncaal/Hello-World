@@ -39,7 +39,9 @@
             android:text="@string/txtbutton"
             android:textColor="@android:color/white"
             android:background="@drawable/bk_button"
-            android:textSize="@dimen/textbutton" />
+            android:textSize="@dimen/textbutton"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp" />
 
     </RelativeLayout>
 </android.support.constraint.ConstraintLayout>
