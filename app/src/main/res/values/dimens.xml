@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textsize">60sp</dimen>
+    <dimen name="textbutton">20sp</dimen>
+    <dimen name="stroke">2dp</dimen>
+</resources>
