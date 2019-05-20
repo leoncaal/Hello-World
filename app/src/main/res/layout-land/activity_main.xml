@@ -39,7 +39,7 @@
             android:text="@string/txtbutton"
             android:textColor="@android:color/white"
             android:textSize="@dimen/textbutton"
-            android:translationY="-40dp"
+            android:translationY="-50dp"
             android:paddingLeft="15dp"
             android:paddingRight="15dp" />
     </RelativeLayout>
